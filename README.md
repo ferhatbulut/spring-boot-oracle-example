@@ -1,4 +1,5 @@
 Local works on projects
+
 Original project is from springframeworkguru - https://github.com/springframeworkguru/spring-boot-oracle-example
 
 # Spring Boot Oracle Example
