@@ -1,3 +1,7 @@
+Local works on projects
+
+Original project is from springframeworkguru - https://github.com/springframeworkguru/spring-boot-oracle-example
+
 # Spring Boot Oracle Example
 
 * To run this example you will need to download and install the Oracle JDBC driver.
